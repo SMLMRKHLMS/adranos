@@ -1,0 +1,56 @@
+{
+  "name": "adranos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -d --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMLMRKHLMS/adranos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMLMRKHLMS/adranos/issues"
+  },
+  "homepage": "https://github.com/SMLMRKHLMS/adranos#readme",
+  "dependencies": {
+    "babel-polyfill": "6.7.4",
+    "react": "0.14.8",
+    "react-dom": "0.14.8",
+    "react-router": "2.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "3.2.0",
+    "babel-core": "6.7.4",
+    "babel-loader": "6.2.4",
+    "babel-preset-es2015": "6.6.0",
+    "babel-preset-react": "6.5.0",
+    "babel-preset-stage-0": "6.5.0",
+    "css-loader": "0.23.1",
+    "extract-text-webpack-plugin": "1.0.1",
+    "file-loader": "0.8.5",
+    "image-webpack-loader": "1.6.3",
+    "import-glob-loader": "1.1.0",
+    "jade": "1.11.0",
+    "jade-html-loader": "0.0.3",
+    "json-loader": "0.5.4",
+    "node-sass": "3.4.2",
+    "open-browser-webpack-plugin": "0.0.2",
+    "react-hot-loader": "1.3.0",
+    "rimraf": "2.5.2",
+    "sass-loader": "3.2.0",
+    "style-loader": "0.13.1",
+    "webpack": "1.12.14",
+    "webpack-dev-server": "1.14.1",
+    "webpack-path-rewriter": "1.1.3"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-0"
+    ]
+  }
+}

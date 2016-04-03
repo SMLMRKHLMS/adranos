@@ -37,6 +37,8 @@ class Home extends React.Component {
           "autoplay": true,
           "autoplaySpeed": 5000,
           "dots": true,
+          "infinite": true,
+          "speed": 1000,
           "useCSS": true,
           "useTransform": true }}>
           { this.state.slides.map((slide, i) => {

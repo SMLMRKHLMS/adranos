@@ -1,0 +1,13 @@
+* { box-sizing: border-box; }
+
+html,
+body,
+#app,
+.content,
+.main,
+.page {
+  height: 100%;
+  width: 100%;
+}
+
+.main { padding: 90px 0 40px; }

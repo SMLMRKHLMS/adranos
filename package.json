@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack -d --config webpack.config.js"
+    "build": "webpack -d --config webpack.config.js",
+    "serve": "webpack-dev-server -d --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -18,9 +19,11 @@
   "homepage": "https://github.com/SMLMRKHLMS/adranos#readme",
   "dependencies": {
     "babel-polyfill": "6.7.4",
+    "jquery": "2.2.2",
     "react": "0.14.8",
     "react-dom": "0.14.8",
-    "react-router": "2.0.1"
+    "react-router": "2.0.1",
+    "slick-carousel": "1.5.9"
   },
   "devDependencies": {
     "autoprefixer-loader": "3.2.0",
@@ -50,6 +53,7 @@
   "babel": {
     "presets": [
       "es2015",
+      "react",
       "stage-0"
     ]
   }

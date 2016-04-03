@@ -10,7 +10,7 @@ class App {
     const { mountPoint } = this.state;
     ReactDOM.render((
       <Router history={ browserHistory }>
-        <Route path="/" component={ Content }>
+        <Route path="/adranos" component={ Content }>
           <IndexRoute component={ Home } />
           <Redirect from="*" to="/" />
         </Route>

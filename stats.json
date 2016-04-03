@@ -1,15 +1,15 @@
 {
   "errors": [],
   "warnings": [
-    "main.a657bfcd9502ec9a6f5e.js from UglifyJs\nCondition always true [./~/react/lib/ReactMount.js:764,0]\nSide effects in initialization of unused variable isInteger [./~/core-js/modules/_typed-array.js:14,0]\nSide effects in initialization of unused variable isIterable [./~/core-js/modules/_typed-array.js:28,0]\nSide effects in initialization of unused variable parseInt [./~/core-js/modules/_typed-buffer.js:24,0]\nSide effects in initialization of unused variable min [./~/core-js/modules/_typed-buffer.js:30,0]\nCondition always true [./~/react/lib/findDOMNode.js:46,0]\nCondition always true [./~/react/lib/instantiateReactComponent.js:80,0]\nDropping unreachable code [./~/react/lib/shouldUpdateReactComponent.js:40,0]\nCondition always true [./~/react/lib/traverseAllChildren.js:158,0]\nSide effects in initialization of unused variable hide [./~/core-js/modules/_collection-strong.js:4,0]\nSide effects in initialization of unused variable has [./~/core-js/modules/es6.weak-map.js:8,0]\nCondition always true [./~/jquery/dist/jquery.js:9806,0]\nCondition always true [./~/react-router/lib/Redirect.js:97,0]\nSide effects in initialization of unused variable invokeReturn [./~/babel-regenerator-runtime/runtime.js:167,0]\nSide effects in initialization of unused variable anInstance [./~/core-js/modules/es6.number.to-fixed.js:3,0]\nSide effects in initialization of unused variable anObject [./~/core-js/modules/es6.promise.js:8,0]\nSide effects in initialization of unused variable setProto [./~/core-js/modules/es6.promise.js:12,0]\nSide effects in initialization of unused variable TYPED_ARRAY [./~/core-js/modules/es6.typed.array-buffer.js:9,0]\nCondition always true [./~/history/lib/createMemoryHistory.js:67,0]\nCondition always true [./~/react-router/lib/IndexRedirect.js:58,0]\nCondition always true [./~/react-router/lib/IndexRoute.js:55,0]\nCondition always true [./~/react-router/lib/Route.js:50,0]\nCondition always true [./~/react/lib/ReactDOMComponent.js:907,0]\nDropping side-effect-free statement [./~/react/lib/ReactEventListener.js:72,0]\nDropping unused function handleTopLevelWithPath [./~/react/lib/ReactEventListener.js:98,0]\nDropping unused variable DOCUMENT_FRAGMENT_NODE_TYPE [./~/react/lib/ReactEventListener.js:26,0]\nCondition always true [./~/slick-carousel/slick/slick.js:20,0]\nDropping unreachable code [./~/slick-carousel/slick/slick.js:22,5]\nDropping unused variable edgeWasHit [./~/slick-carousel/slick/slick.js:2374,0]"
+    "main.064e85e2d50222020d5e.js from UglifyJs\nCondition always true [./~/react/lib/ReactMount.js:764,0]\nSide effects in initialization of unused variable isInteger [./~/core-js/modules/_typed-array.js:14,0]\nSide effects in initialization of unused variable isIterable [./~/core-js/modules/_typed-array.js:28,0]\nSide effects in initialization of unused variable parseInt [./~/core-js/modules/_typed-buffer.js:24,0]\nSide effects in initialization of unused variable min [./~/core-js/modules/_typed-buffer.js:30,0]\nCondition always true [./~/react/lib/findDOMNode.js:46,0]\nCondition always true [./~/react/lib/instantiateReactComponent.js:80,0]\nDropping unreachable code [./~/react/lib/shouldUpdateReactComponent.js:40,0]\nCondition always true [./~/react/lib/traverseAllChildren.js:158,0]\nSide effects in initialization of unused variable hide [./~/core-js/modules/_collection-strong.js:4,0]\nSide effects in initialization of unused variable has [./~/core-js/modules/es6.weak-map.js:8,0]\nCondition always true [./~/jquery/dist/jquery.js:9806,0]\nCondition always true [./~/react-router/lib/Redirect.js:97,0]\nSide effects in initialization of unused variable invokeReturn [./~/babel-regenerator-runtime/runtime.js:167,0]\nSide effects in initialization of unused variable anInstance [./~/core-js/modules/es6.number.to-fixed.js:3,0]\nSide effects in initialization of unused variable anObject [./~/core-js/modules/es6.promise.js:8,0]\nSide effects in initialization of unused variable setProto [./~/core-js/modules/es6.promise.js:12,0]\nSide effects in initialization of unused variable TYPED_ARRAY [./~/core-js/modules/es6.typed.array-buffer.js:9,0]\nCondition always true [./~/history/lib/createMemoryHistory.js:67,0]\nCondition always true [./~/react-router/lib/IndexRedirect.js:58,0]\nCondition always true [./~/react-router/lib/IndexRoute.js:55,0]\nCondition always true [./~/react-router/lib/Route.js:50,0]\nCondition always true [./~/react/lib/ReactDOMComponent.js:907,0]\nDropping side-effect-free statement [./~/react/lib/ReactEventListener.js:72,0]\nDropping unused function handleTopLevelWithPath [./~/react/lib/ReactEventListener.js:98,0]\nDropping unused variable DOCUMENT_FRAGMENT_NODE_TYPE [./~/react/lib/ReactEventListener.js:26,0]\nCondition always true [./~/slick-carousel/slick/slick.js:20,0]\nDropping unreachable code [./~/slick-carousel/slick/slick.js:22,5]\nDropping unused variable edgeWasHit [./~/slick-carousel/slick/slick.js:2374,0]"
   ],
   "version": "1.12.14",
-  "hash": "a657bfcd9502ec9a6f5e",
-  "publicPath": "/adranos",
+  "hash": "064e85e2d50222020d5e",
+  "publicPath": "./",
   "assetsByChunkName": {
     "main": [
-      "main.a657bfcd9502ec9a6f5e.js",
-      "main.a657bfcd9502ec9a6f5e.css"
+      "main.064e85e2d50222020d5e.js",
+      "main.064e85e2d50222020d5e.css"
     ]
   },
   "assets": [
@@ -104,8 +104,8 @@
       "chunkNames": []
     },
     {
-      "name": "main.a657bfcd9502ec9a6f5e.js",
-      "size": 464255,
+      "name": "main.064e85e2d50222020d5e.js",
+      "size": 464235,
       "chunks": [
         0
       ],
@@ -114,8 +114,8 @@
       ]
     },
     {
-      "name": "main.a657bfcd9502ec9a6f5e.css",
-      "size": 7133,
+      "name": "main.064e85e2d50222020d5e.css",
+      "size": 7061,
       "chunks": [
         0
       ],
@@ -131,15 +131,15 @@
       "initial": true,
       "entry": true,
       "extraAsync": false,
-      "size": 1359002,
+      "size": 1358988,
       "names": [
         "main"
       ],
       "files": [
-        "main.a657bfcd9502ec9a6f5e.js",
-        "main.a657bfcd9502ec9a6f5e.css"
+        "main.064e85e2d50222020d5e.js",
+        "main.064e85e2d50222020d5e.css"
       ],
-      "hash": "5c1366e3d28fc7098ff8",
+      "hash": "0e7b1f91d82b3a8fe1b6",
       "parents": [],
       "origins": [
         {
@@ -191,7 +191,7 @@
         0
       ],
       "assets": [],
-      "issuer": "/Users/markholmes/Sites/adranos/node_modules/core-js/modules/es6.symbol.js",
+      "issuer": "/Users/markholmes/Sites/adranos/node_modules/core-js/modules/es6.object.create.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -3912,7 +3912,7 @@
         0
       ],
       "assets": [],
-      "issuer": "/Users/markholmes/Sites/adranos/node_modules/core-js/modules/es6.object.seal.js",
+      "issuer": "/Users/markholmes/Sites/adranos/node_modules/core-js/modules/es6.object.freeze.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9766,7 +9766,7 @@
         0
       ],
       "assets": [],
-      "issuer": "/Users/markholmes/Sites/adranos/node_modules/core-js/modules/es6.symbol.js",
+      "issuer": "/Users/markholmes/Sites/adranos/node_modules/core-js/modules/es6.object.create.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -14588,7 +14588,7 @@
         0
       ],
       "assets": [],
-      "issuer": "/Users/markholmes/Sites/adranos/node_modules/react-router/lib/getComponents.js",
+      "issuer": "/Users/markholmes/Sites/adranos/node_modules/react-router/lib/TransitionUtils.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -14888,7 +14888,7 @@
         0
       ],
       "assets": [],
-      "issuer": "/Users/markholmes/Sites/adranos/node_modules/react/lib/ReactDefaultInjection.js",
+      "issuer": "/Users/markholmes/Sites/adranos/node_modules/react/lib/ReactDOMTextComponent.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -15338,7 +15338,7 @@
         0
       ],
       "assets": [],
-      "issuer": "/Users/markholmes/Sites/adranos/node_modules/react/lib/ReactElementValidator.js",
+      "issuer": "/Users/markholmes/Sites/adranos/node_modules/react/lib/ReactPropTypes.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -18672,7 +18672,7 @@
       "name": "./src/app/scripts/App.js",
       "index": 307,
       "index2": 531,
-      "size": 1753,
+      "size": 1746,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -18696,7 +18696,7 @@
           "loc": "9:0-31"
         }
       ],
-      "source": "'use strict';\n\nvar _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();\n\nvar _reactRouter = require('react-router');\n\nvar _Content = require('./components/Content/Content');\n\nvar _Content2 = _interopRequireDefault(_Content);\n\nvar _Home = require('./components/Home/Home');\n\nvar _Home2 = _interopRequireDefault(_Home);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nvar App = function () {\n  function App() {\n    _classCallCheck(this, App);\n\n    this.state = { mountPoint: '#app' };\n  }\n\n  _createClass(App, [{\n    key: 'init',\n    value: function init() {\n      var mountPoint = this.state.mountPoint;\n\n      ReactDOM.render(React.createElement(\n        _reactRouter.Router,\n        { history: _reactRouter.browserHistory },\n        React.createElement(\n          _reactRouter.Route,\n          { path: '/adranos', component: _Content2.default },\n          React.createElement(_reactRouter.IndexRoute, { component: _Home2.default })\n        )\n      ), document.querySelector(mountPoint));\n    }\n  }]);\n\n  return App;\n}();\n\nnew App().init();"
+      "source": "'use strict';\n\nvar _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();\n\nvar _reactRouter = require('react-router');\n\nvar _Content = require('./components/Content/Content');\n\nvar _Content2 = _interopRequireDefault(_Content);\n\nvar _Home = require('./components/Home/Home');\n\nvar _Home2 = _interopRequireDefault(_Home);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nvar App = function () {\n  function App() {\n    _classCallCheck(this, App);\n\n    this.state = { mountPoint: '#app' };\n  }\n\n  _createClass(App, [{\n    key: 'init',\n    value: function init() {\n      var mountPoint = this.state.mountPoint;\n\n      ReactDOM.render(React.createElement(\n        _reactRouter.Router,\n        { history: _reactRouter.browserHistory },\n        React.createElement(\n          _reactRouter.Route,\n          { path: '/', component: _Content2.default },\n          React.createElement(_reactRouter.IndexRoute, { component: _Home2.default })\n        )\n      ), document.querySelector(mountPoint));\n    }\n  }]);\n\n  return App;\n}();\n\nnew App().init();"
     },
     {
       "id": 226,
@@ -28121,7 +28121,7 @@
       "name": "./src/app/index.jade",
       "index": 292,
       "index2": 290,
-      "size": 39,
+      "size": 32,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -28145,7 +28145,7 @@
           "loc": "5:0-27"
         }
       ],
-      "source": "\nmodule.exports = \"/adranos/index.html\""
+      "source": "\nmodule.exports = \"./index.html\""
     },
     {
       "id": 521,
@@ -28561,7 +28561,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/adranos",
+      "publicPath": "./",
       "assetsByChunkName": {},
       "assets": [
         {
@@ -28637,7 +28637,7 @@
           "files": [
             "extract-text-webpack-plugin-output-filename"
           ],
-          "hash": "429b521f6311790d7781",
+          "hash": "1f2a7a2acc45667c5a88",
           "parents": [],
           "origins": [
             {

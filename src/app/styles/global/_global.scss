@@ -10,4 +10,10 @@ body,
   width: 100%;
 }
 
-.main { padding: 90px 0 40px; }
+.main {
+  padding: 90px 0 40px;
+
+  @media (max-width: 768px) {
+    padding: 65px 0 50px;
+  }
+}

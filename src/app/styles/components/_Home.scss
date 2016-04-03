@@ -9,6 +9,12 @@
       top: 50px;
       z-index: 2;
 
+    @media (max-width: 768px) {
+      max-width: 90%;
+      padding: 10px 5%;
+      top: 20px;
+    }
+
     h1 {
       color: #3A3A3C;
       font-family: 'robotothin';
@@ -17,6 +23,11 @@
       letter-spacing: 0.05em;
       margin: 0;
       text-transform: uppercase;
+
+      @media (max-width: 768px) {
+        font-size: 20px;
+        letter-spacing: 0.01em;
+      }
     }
   }
 }

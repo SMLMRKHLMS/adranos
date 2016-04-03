@@ -25,6 +25,13 @@
         transform: translate3d(300px, 0, 0);
         transition: all 1250ms ease;
 
+        @media (max-width: 768px) {
+          bottom: 50px;
+          right: 0;
+          max-width: 90%;
+          padding: 10px 5%;
+        }
+
         h2 {
           color: #D11188;
           font-family: 'robotoregular';
@@ -32,6 +39,10 @@
           font-weight: normal;
           letter-spacing: 0.05em;
           margin: 0;
+
+          @media (max-width: 768px) {
+            font-size: 14px;
+          }
         }
 
         p {
@@ -41,6 +52,11 @@
           font-weight: normal;
           letter-spacing: 0.01em;
           margin: 15px 0 0;
+
+          @media (max-width: 768px) {
+            font-size: 11px;
+            margin: 5px 0 0;
+          }
         }
       }
 
@@ -67,6 +83,10 @@
       padding: 20px 0;
       text-align: center;
       width: 100%;
+
+      @media (max-width: 768px) {
+        padding: 15px 0;
+      }
 
       li {
         display: inline-block;

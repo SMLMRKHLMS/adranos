@@ -22,7 +22,7 @@ const config = {
   output: {
     filename: '[name].[hash].js',
     path: './dist/release/',
-    publicPath: '/dist/release/'
+    publicPath: '/'
   },
   plugins: [
     new extractTextPlugin('[name].[hash].css'),

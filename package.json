@@ -9,7 +9,6 @@
     "build:release": "rimraf dist/release && webpack -p --no-info --progress --ENV release --config webpack.release.js",
     "init": "npm install && node prompts.js && npm run build && npm run serve",
     "serve": "webpack-dev-server -d --no-info --ENV local --config webpack.local.js",
-
     "deploy": "npm run build:release && npm run git:push && npm run git:push:dev",
     "git:add": "git add -A",
     "git:commit": "git commit -m \"Build & Deploy\"",

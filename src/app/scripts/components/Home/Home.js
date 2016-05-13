@@ -18,7 +18,7 @@ class Home extends React.Component {
         image: require('./../../../images/environment.jpg'),
         text: 'The elimination of toxic hydrochloric acid emissions characteristic of traditional fuels will preserve the environment and prevent ozone depletion.'
       },{
-        subtitle: 'For the Beyond',
+        subtitle: 'For Our Beyond',
         image: require('./../../../images/space.jpg'),
         text: 'Superior fuel efficiency will enable private space exploration companies and satellite companies to launch greater payloads to orbit at a reduced cost.'
       }],
@@ -35,7 +35,7 @@ class Home extends React.Component {
         <Carousel config={{
           "arrows": false,
           "autoplay": true,
-          "autoplaySpeed": 5000,
+          "autoplaySpeed": 8000,
           "dots": true,
           "infinite": true,
           "speed": 1000,

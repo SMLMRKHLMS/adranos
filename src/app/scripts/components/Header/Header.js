@@ -4,7 +4,7 @@ class Header extends React.Component {
       <header className="header">
         <img
           className="logo"
-          src={require('./../../../images/logo.png')} />
+          src={require('./../../../images/logo-white.png')} />
       </header>
     );
   }

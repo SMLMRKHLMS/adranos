@@ -2,11 +2,12 @@
   position: relative;
 
   .title {
-    background-color: rgba(255, 255, 255, 0.65);
-    padding: 20px 40px;
-    max-width: 450px;
+    //background-color: rgba(209, 17, 136, 0.75);
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 25px 40px;
+    max-width: 440px;
     position: absolute;
-      top: 50px;
+      top: 150px;
       z-index: 2;
 
     @media (max-width: 768px) {
@@ -16,10 +17,10 @@
     }
 
     h1 {
-      color: #3A3A3C;
-      font-family: 'robotothin';
-      font-weight: bold;
-      font-size: 26px;
+      //color: #FFF;
+      color: rgba(209, 17, 136, 1);
+      font-family: 'robotoregular';
+      font-size: 28px;
       letter-spacing: 0.05em;
       margin: 0;
       text-transform: uppercase;

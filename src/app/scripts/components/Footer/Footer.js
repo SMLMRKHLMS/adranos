@@ -4,7 +4,7 @@ class Footer extends React.Component {
       <footer className="footer">
         <ul>
           <li>
-            <span>P.O. Box 101, Lafayette, IN 47901</span>
+            <span>P.O. Box 101, Lafayette, IN 47902</span>
           </li>
           <li>
             <span>|</span>

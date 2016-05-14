@@ -2,3 +2,18 @@ import 'babel-polyfill';
 import './app/index.jade';
 import './app/styles/main.scss';
 import './app/scripts/App.js';
+
+import './app/images/apple-icon-57x57.png';
+import './app/images/apple-icon-60x60.png';
+import './app/images/apple-icon-72x72.png';
+import './app/images/apple-icon-76x76.png';
+import './app/images/apple-icon-114x114.png';
+import './app/images/apple-icon-120x120.png';
+import './app/images/apple-icon-144x144.png';
+import './app/images/apple-icon-152x152.png';
+import './app/images/apple-icon-180x180.png';
+import './app/images/android-icon-192x192.png';
+import './app/images/favicon-32x32.png';
+import './app/images/favicon-96x96.png';
+import './app/images/favicon-16x16.png';
+import './app/images/ms-icon-144x144.png';

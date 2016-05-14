@@ -2,7 +2,6 @@
   position: relative;
 
   .title {
-    //background-color: rgba(209, 17, 136, 0.75);
     background-color: rgba(255, 255, 255, 0.75);
     padding: 25px 40px;
     max-width: 440px;
@@ -13,11 +12,9 @@
     @media (max-width: 768px) {
       max-width: 90%;
       padding: 10px 5%;
-      top: 20px;
     }
 
     h1 {
-      //color: #FFF;
       color: rgba(209, 17, 136, 1);
       font-family: 'robotoregular';
       font-size: 28px;
